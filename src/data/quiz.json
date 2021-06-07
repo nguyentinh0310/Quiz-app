@@ -1,0 +1,59 @@
+{
+    "data" :[
+        {
+            "id": 1,
+            "question": " Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+            "choices": ["1 quả", "2 quả", "3 quả", "4 quả"],
+            "answer": "2 quả"
+        },
+        {
+            "id": 2,
+            "question": "Nhà Nam có 4 anh chị em, 3 người lớn tên là Xuân, Hạ, Thu. Đố bạn người em út tên gì?",
+            "choices": ["Xuân","Hạ","Thu","Nam"],
+            "answer": "Nam"
+        },
+        {
+            "id": 3,
+            "question": "Ao tròn vành vạnh.Nước lạnh như tiền.Con gái như tiên.Trần mình xuống lội Là gì?",
+            "choices": ["Bánh trôi","Bánh chưng","Bánh dày","Bánh bao"],
+            "answer": "Bánh trôi"
+        },
+     
+        {
+            "id": 4,
+            "question": "Từ nào sau đây khác nghĩa với 3 từ còn lại?",
+            "choices": ["Sinh nở","Sinh sôi","Sinh trưởng","Sinh viên"],
+            "answer": "Sinh viên"
+        },
+        {
+            "id": 5,
+            "question": "Mưa ngâu là vào khoảng tháng mấy trong năm?",
+            "choices": ["Tháng 1 âm lịch","Tháng 3 âm lịch","Tháng 7 âm lịch","Tháng 11 âm lịch"],
+            "answer": "Tháng 7 âm lịch"
+        },
+        {
+            "id": 6,
+            "question": "Đồng Đăng có phố Kỳ Lừa, có nàng Tô Thị, có chùa...?",
+            "choices": ["Thiên Mụ","Phật Tích","Tam Thanh","Một Cột"],
+            "answer": "Tam Thanh"
+        },
+        {
+            "id": 7,
+            "question": "Trong truyện Kiều, khi gặp Thúy Kiều lần đầu tiên, Kim Trọng cưỡi ngựa gì?",
+            "choices": ["Ngựa xích thố","Ngựa ô","Bạch mã","Ngựa vằn"],
+            "answer": "Bạch mã"
+        },
+        {
+            "id": 8,
+            "question": "Phủ Tây Hồ ở Hà Nội ngày nay thờ ai?",
+            "choices": ["Mẫu Liễu Hạnh","Thánh gióng","Trần Hưng Đạo","Chử Đồng Tử"],
+            "answer": "Mẫu Liễu Hạnh"
+        },
+        {
+            "id": 9,
+            "question": "Thành vạn An do ai xây dựng?",
+            "choices": ["Phùng Hưng","Dương Đình Nghệ","Mai Hắc Đế","Lý Nam Đế"],
+            "answer": "Mai Hắc Đế"
+        }
+    ]
+}
